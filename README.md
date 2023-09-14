@@ -36,7 +36,6 @@ A passionate Penetration Tester as well as MERN stack Developer from India
 
 <br />
 
-
 ### Profile Visits
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivshankarkannoujiya&label=Profile%20views&color=0e75b6&style=flat" alt="shivshankarkannoujiya" /> </p>
 
