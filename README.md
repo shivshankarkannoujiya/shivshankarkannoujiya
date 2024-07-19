@@ -13,7 +13,6 @@ A passionate Penetration Tester as well as MERN stack Developer from India
 ### What I currently Do
 
 - 🔭 I’m currently Studying Computer Science
-- 💻 Currently I'm doing Internship : Defronix Cyber Security
 - 📫 How to reach me: kannoujiyaji143@gmail.com.
 - 😄 Pronouns: Shivshankar , KannoujiyaJi , webghost , Abhi.
 
