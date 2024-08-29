@@ -8,7 +8,7 @@ A passionate Penetration Tester as well as MERN stack Developer from India
 
 📨Reach me out !
 
-[![Twitter Badge](https://img.shields.io/badge/-@Kannoujiyaji-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Kannoujiyaji)](https://twitter.com/Kannoujiyaji) [![Linkedin Badge](https://img.shields.io/badge/-shivshankarkannoujiya-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivshankarkannoujiya/) [![Mail Badge](https://img.shields.io/badge/-@i_tsabhi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/i_tsabhi) [![Mail Badge](https://img.shields.io/badge/-shivshankarkannoujiya-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kannoujiyaji143@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@skannoujiyaji-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Kannoujiyaji)](https://twitter.com/Kannoujiyaji) [![Linkedin Badge](https://img.shields.io/badge/-shivshankarkannoujiya-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivshankarkannoujiya/) [![Mail Badge](https://img.shields.io/badge/-@i_tsabhi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/i_tsabhi) [![Mail Badge](https://img.shields.io/badge/-shivshankarkannoujiya-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kannoujiyaji143@gmail.com)
 
 ### What I currently Do
 
