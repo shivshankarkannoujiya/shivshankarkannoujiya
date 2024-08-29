@@ -2,7 +2,7 @@
 
 <br>
 
-A passionate Penetration Tester as well as MERN stack Developer from India
+A passionate MERN stack Developer from India
 
 <br>
 
