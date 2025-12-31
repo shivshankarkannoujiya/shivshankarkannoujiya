@@ -54,12 +54,8 @@ I move beyond basic CRUD apps to build performant, real-world systems. Whether i
       <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,ts&theme=dark" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,aws,gcp,digitalocean&theme=dark" />
       <br>
-      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white" />
-      <br>
-      <img src="https://img.shields.io/badge/DigitalOcean-%230080FF.svg?style=flat-square&logo=digitalocean&logoColor=white" />
       <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=white" />
     </td>
   </tr>
