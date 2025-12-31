@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1da1f2,833ab4,00f2ea&height=280&section=header&text=Shivshankar%20Kannoujiya&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%202025%20Grad%20%7C%20MERN%20&descAlignY=62&descAlign=50" alt="Shivshankar Header" />
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1da1f2,833ab4,00f2ea&height=280&section=header&text=Shivshankar%20Kannoujiya&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%202025%20Grad%20%7C%20MERN%20&descAlignY=62&descAlign=50](https://capsule-render.vercel.app/api?type=waving&color=00f2ea&height=280&section=header&text=Hello%20World!&fontSize=80&fontAlignY=35&desc=I%27m%20Shiv%20Shankar%20Kannoujiya&descAlignY=60&descAlign=50)" alt="Shivshankar Header" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=35CDD0&center=true&vCenter=true&width=500&lines=Building+Scalable+MERN+Systems;Crafting+Next-Gen+AI+Applications;Designing+Efficient+Backends;Exploring+System+Design" alt="Typing SVG" />
@@ -27,8 +27,8 @@ Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1
 I move beyond basic CRUD apps to build performant, real-world systems. Whether it's architecting a code-execution engine or integrating GenAI into web apps, I love solving complex engineering problems.
 
 * 🔭 **Currently building:** **AlgoNex** (A high-performance Competitive Programming Platform).
-* 🌱 **Learning:** Advanced System Design, Docker Containerization, and GenAI Agents.
-* ⚡ **Fun fact:** I go by *webghost* or *Abhi* on the internet.
+* 🧠 **Core Competency:** Distributed Systems, Event-Driven Architecture, and RAG (Retrieval-Augmented Generation).
+* ⚡ **Tech Philosophy:** "Ship fast, scale horizontally, and automate everything."
 
 ---
 
@@ -36,23 +36,25 @@ I move beyond basic CRUD apps to build performant, real-world systems. Whether i
 
 <table align="center">
   <tr>
-    <td align="center"><b>Languages</b></td>
-    <td align="center"><b>Frontend</b></td>
+    <td align="center"><b>Architecture & AI</b></td>
     <td align="center"><b>Backend & DB</b></td>
-    <td align="center"><b>Tools & DevOps</b></td>
+    <td align="center"><b>Frontend</b></td>
+    <td align="center"><b>DevOps & Tools</b></td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java&theme=dark" />
+       <img src="https://img.shields.io/badge/Microservices-blue?style=flat-square&logo=kubernetes&logoColor=white" /><br>
+       <img src="https://img.shields.io/badge/GenAI_&_LLMs-purple?style=flat-square&logo=openai&logoColor=white" /><br>
+       <img src="https://img.shields.io/badge/RAG_Systems-orange?style=flat-square&logo=python&logoColor=white" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,bun,python,mongodb,postgres,mysql&theme=dark" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,bun,mongodb,postgres,mysql&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,ts&theme=dark" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode&theme=dark" />
     </td>
   </tr>
 </table>
