@@ -55,8 +55,6 @@ I move beyond basic CRUD apps to build performant, real-world systems. Whether i
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,aws,gcp,digitalocean&theme=dark" />
-      <br>
-      <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=white" />
     </td>
   </tr>
 </table>
