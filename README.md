@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1da1f2,833ab4,00f2ea&height=280&section=header&text=Shivshankar%20Kannoujiya&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%202025%20Grad%20%7C%20MERN%20&descAlignY=62&descAlign=50](https://capsule-render.vercel.app/api?type=waving&color=00f2ea&height=280&section=header&text=Hello%20World!&fontSize=80&fontAlignY=35&desc=I%27m%20Shiv%20Shankar%20Kannoujiya&descAlignY=60&descAlign=50)" alt="Shivshankar Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ea&height=280&section=header&text=Hello%20World!&fontSize=80&fontAlignY=35&desc=I%27m%20Shiv%20Shankar%20Kannoujiya&descAlignY=60&descAlign=50" alt="Shivshankar Header" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=35CDD0&center=true&vCenter=true&width=500&lines=Building+Scalable+MERN+Systems;Crafting+Next-Gen+AI+Applications;Designing+Efficient+Backends;Exploring+System+Design" alt="Typing SVG" />
