@@ -1,47 +1,60 @@
-## Hi I'm Shivshankar Kannoujiya <img  src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1da1f2,833ab4,00f2ea&height=280&section=header&text=Shivshankar%20Kannoujiya&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%202025%20Grad%20%7C%20MERN%20&descAlignY=62&descAlign=50" alt="Shivshankar Header" />
 
-<br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=35CDD0&center=true&vCenter=true&width=500&lines=Building+Scalable+MERN+Systems;Crafting+Next-Gen+AI+Applications;Designing+Efficient+Backends;Exploring+System+Design" alt="Typing SVG" />
+  </a>
 
-A passionate MERN stack Developer from India
+  <p>
+    <a href="https://www.linkedin.com/in/shivshankar-kannoujiya/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://x.com/skannoujiyaji" target="_blank">
+      <img src="https://img.shields.io/badge/X_(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X.com" />
+    </a>
+    <a href="mailto:kannoujiyaji143@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
-<br>
+---
 
-📨Reach me out !
+### 👨‍💻 About Me
 
-[![Twitter Badge](https://img.shields.io/badge/-@skannoujiyaji-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/skannoujiyaji)](https://x.com/skannoujiyaji)
-[![Linkedin Badge](https://img.shields.io/badge/-shivshankar_kannoujiya-blue?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shivshankar-kannoujiya-174391346/)](https://www.linkedin.com/in/shivshankar-kannoujiya/)
-[![Mail Badge](https://img.shields.io/badge/-@i_tsabhi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white&link=https://instagram.com/i_tsabhi)](https://instagram.com/i_tsabhi)
-[![Mail Badge](https://img.shields.io/badge/-shivshankarkannoujiya-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kannoujiyaji143@gmail.com)
+Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"> I am a **Computer Science Finalist (2025)** and a passionate **Full Stack Developer** from India.
 
-### What I currently Do
+I move beyond basic CRUD apps to build performant, real-world systems. Whether it's architecting a code-execution engine or integrating GenAI into web apps, I love solving complex engineering problems.
 
-- 🔭 I’m currently Studying Computer Science
-- 📫 How to reach me: kannoujiyaji143@gmail.com.
-- 😄 Pronouns: Shivshankar , KannoujiyaJi , webghost , Abhi.
+* 🔭 **Currently building:** **AlgoNex** (A high-performance Competitive Programming Platform).
+* 🌱 **Learning:** Advanced System Design, Docker Containerization, and GenAI Agents.
+* ⚡ **Fun fact:** I go by *webghost* or *Abhi* on the internet.
 
-#### Top Technologies
+---
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+### 🛠️ Technical Stack
 
-<!-- <h3 align="center">from India</h3>
+<table align="center">
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td align="center"><b>Frontend</b></td>
+    <td align="center"><b>Backend & DB</b></td>
+    <td align="center"><b>Tools & DevOps</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java&theme=dark" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,bun,mongodb,postgres,mysql&theme=dark" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode&theme=dark" />
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/i_tsabhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_tsabhi" height="30" width="40" /></a>
-</p> -->
-
-### Languages and Tools
-
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<br />
-
-### Profile Visits
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivshankarkannoujiya&label=Profile%20views&color=0e75b6&style=flat" alt="shivshankarkannoujiya" /> </p>
-
-<br>
-
-## Github Stats
-
-![Shivshankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivshankarkannoujiya&hide=contribs,prs&theme=tokyonight)
+---
