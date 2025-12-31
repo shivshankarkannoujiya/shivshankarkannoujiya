@@ -58,3 +58,27 @@ I move beyond basic CRUD apps to build performant, real-world systems. Whether i
 </table>
 
 ---
+
+### 📊 GitHub Productivity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivshankarkannoujiya&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivshankarkannoujiya&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+<br />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivshankarkannoujiya&theme=tokyonight&hide_border=true" alt="streak graph" />
+</div>
+
+<br />
+
+<div align="center">
+  <h3>Let's Connect & Code!</h3>
+  <p>Open to SDE Internships and Full-time Roles (2025)</p>
+  
+  <p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=shivshankarkannoujiya&label=Profile%20Views&color=0e75b6&style=flat-square" alt="shivshankarkannoujiya" /> 
+  </p>
+</div>
